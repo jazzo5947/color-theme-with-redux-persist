@@ -1,2 +1,4 @@
 # color-theme-with-redux-persist
-Color theme setting by redux-persist
+
+- [x] chore: redux-persist setting
+- [ ] feature: color theme mode
